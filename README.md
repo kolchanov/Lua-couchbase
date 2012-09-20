@@ -10,6 +10,6 @@ CJSC PETER-SERVICE, 2012.
 
 www.billing.ru
 
-Andrey.Kolchanov@billing.ru
+Andrey dot Kolchanov@ billing dot ru
 
 
